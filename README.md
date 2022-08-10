@@ -1,1 +1,1 @@
-# Analysis of a retail store dataset
+# Analysis of a retail store dataset using Jupyter Notebook
